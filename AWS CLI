@@ -1,1 +1,24 @@
 
+AWS API -
+TO AUTOMATE INFRASTRUCTURE ON AWS
+
+AWS CLI 
+TERAFORM
+CLOUD FORMATION TEMPLATES
+CLOUD DEVELOPMENT KIT CDK
+
+-PYTHON program
+UI VS API (programmatically)
+
+-call api -via pytho code -pass paramters - s2/bucket/create -response in resource format 
+
+aws cli intsallation -python should be present
+-
+-aws commands -aws cli - execution on aws
+-to connect to your account
+access key access id 
+
+aws s3 ls
+-cli understands we want to talk to aws - cli translate the command to api call and get backs the output
+
+
