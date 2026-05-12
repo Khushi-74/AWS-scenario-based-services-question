@@ -1,1 +1,27 @@
+-WRITE code to create infrastructute
+
+IAC principle
+-act as middleman between user and different cloud providers
+AWS has Cloud Formation template
+Terraform supports multiple cloud provider
+
+YAML/JSON file ---->CFT ----->api calls to cloud platform ---> Execution of request
+
+CFT supports 
+--both json and yaml 
+--YAML support commenting . indentation
+--Drift detection - any manual change by user on infra that was created by cft
+
+CFT STRUCTURE/COMPONENTS
+
+VERSION OF CFT
+DESCRIPTION OF CFT
+METADATA :OWNER ETC
+PARAMETERS : VARIABLES FOR RUNTIME
+RULES : VALIDATE PARAMETERS
+MAPPINGS:ASSIGNING VARIABLES TO PARAMETER
+CONDITION
+RESOURCES : Required -Y
+OUTPUTS
+
 
